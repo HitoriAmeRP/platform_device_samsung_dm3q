@@ -23,7 +23,7 @@ $(call inherit-product, device/samsung/dm3q/device.mk)
 PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,device/samsung/dm3q/recovery/root,recovery/root)
 
 PRODUCT_DEVICE := dm3q
-PRODUCT_NAME := twrp_dm3q
+PRODUCT_NAME := omni_dm3q
 PRODUCT_BRAND := samsung
 PRODUCT_MODEL := SM-S918B
 PRODUCT_MANUFACTURER := samsung
