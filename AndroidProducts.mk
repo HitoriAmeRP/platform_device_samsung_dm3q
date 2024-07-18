@@ -5,7 +5,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_dm3q.mk
+    $(LOCAL_DIR)/twrp_dm3q.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_dm3q-eng
+    twrp_dm3q-eng
